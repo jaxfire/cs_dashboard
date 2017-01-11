@@ -1,0 +1,13 @@
+<!-- strings.xml -->
+<resources>
+    <string name="app_name">Donut View</string>
+    <string name="credit_report_info">creditReportInfo</string>
+    <string name="score">score</string>
+    <string name="max_score_value">maxScoreValue</string>
+    <string name="no_internet_connection_title">No internet connection</string>
+    <string name="no_internet_connection_message">Please reconnect and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="retrieving_score">Retrieving score</string>
+    <string name="your_credit_score_is">Your credit score is</string>
+    <string name="out_of">"out of "</string>
+</resources>

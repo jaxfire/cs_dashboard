@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--PLACE IN RES/VALUES DIRECTORY. FILENAME: attr.xml -->
+<resources>
+    <declare-styleable name="DonutChart">
+        <attr name="radius" format="dimension"/>
+        <attr name="score" format="integer"/>
+    </declare-styleable>
+</resources>

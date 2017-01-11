@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- activity_main.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jaxfire.donutview.MainActivity"
+    xmlns:customviews="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_vertical_margin"
+    android:orientation="vertical">
+
+    <com.jaxfire.donutview.DonutView
+    android:id="@+id/donut_view_1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"/>
+    <!--OPTIONAL VALUES-->
+    <!--customviews:radius="100dp"-->
+    <!--customviews:score="500"-->
+
+
+</LinearLayout>
